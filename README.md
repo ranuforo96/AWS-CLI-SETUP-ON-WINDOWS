@@ -45,3 +45,6 @@ Wait for the loading process to complete
 
 <img width="583" height="459" alt="image" src="https://github.com/user-attachments/assets/625e93da-5405-4e03-bc88-23affc28d2ec" />
 
+Once it has finished loading, you can then select Finish to finalize the download
+
+<img width="587" height="457" alt="image" src="https://github.com/user-attachments/assets/c2257563-260a-4aea-bf75-e1e9015b7c56" />
