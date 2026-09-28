@@ -17,4 +17,6 @@ Next, scroll down until you see "AWS CLI install instructions" and click the dro
 
 <img width="971" height="718" alt="image" src="https://github.com/user-attachments/assets/25957547-14c6-4e1e-8931-1548cab3fb2c" />
 
+Then, click the download link for MSI installer - Current user
+
 
