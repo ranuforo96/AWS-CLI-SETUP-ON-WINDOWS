@@ -21,3 +21,8 @@ Then, click the download link for MSI installer - Current user
 
 <img width="641" height="75" alt="image" src="https://github.com/user-attachments/assets/126cfeca-a579-4a4e-8d20-2f56a6275a75" />
 
+Once the download has completed, you can now open and run your installer
+
+<img width="591" height="331" alt="image" src="https://github.com/user-attachments/assets/3f7a20ec-8604-4393-9531-735d3ffc9b5e" />
+
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/4a4c3ca2-839c-46b5-85f2-1035ddb54d61" />
