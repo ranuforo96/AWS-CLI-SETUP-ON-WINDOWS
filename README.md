@@ -48,3 +48,15 @@ Wait for the loading process to complete
 Once it has finished loading, you can then select Finish to finalize the download
 
 <img width="587" height="457" alt="image" src="https://github.com/user-attachments/assets/c2257563-260a-4aea-bf75-e1e9015b7c56" />
+
+Now open your command line
+
+<img width="1038" height="857" alt="image" src="https://github.com/user-attachments/assets/8cfeeaf0-304f-40ac-95b6-cabe449a139a" />
+
+Once your command line is opened type: aws --version
+
+<img width="1099" height="311" alt="image" src="https://github.com/user-attachments/assets/827662ed-4c64-429a-83d9-e83dbe94a54d" />
+
+If your terminal output matches the screenshot below, the AWS CLI is successfully installed on your Windows machine
+
+<img width="482" height="207" alt="image" src="https://github.com/user-attachments/assets/55c8c262-07aa-4da2-bc2f-72802181983e" />
