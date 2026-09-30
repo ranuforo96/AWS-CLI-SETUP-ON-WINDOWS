@@ -17,7 +17,11 @@ Next, scroll down until you see "AWS CLI install instructions" and click the dro
 
 <img width="971" height="718" alt="image" src="https://github.com/user-attachments/assets/25957547-14c6-4e1e-8931-1548cab3fb2c" />
 
-Then, click the download link for MSI installer - Current user
+Choose "MSI installer - All users" if you want everyone on the computer to use it, which requires administrator rights
+
+Or you can choose "MSI installer - Current user" to install it just for yourself, as it doesn't need admin rights.
+
+For this demonstration, I chose to download the MSI installer - Current user
 
 <img width="641" height="75" alt="image" src="https://github.com/user-attachments/assets/126cfeca-a579-4a4e-8d20-2f56a6275a75" />
 
